@@ -1,0 +1,10 @@
+var x,y;
+procedure foo(w);
+     begin
+           w := w*w*w;
+           return := w;
+     end;
+begin
+x := 5;
+     y := call foo(x);
+write y; end.
